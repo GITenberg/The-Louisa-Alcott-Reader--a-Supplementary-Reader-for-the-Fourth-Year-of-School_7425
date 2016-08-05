@@ -1,0 +1,37 @@
+_repo: The-Louisa-Alcott-Reader--a-Supplementary-Reader-for-the-Fourth-Year-of-School_7425
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Alcott, Louisa M. (Louisa May)
+    - Barnard, A. M.
+    - Alcott, L. M. (Louisa May)
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+description: ''
+gutenberg_bookshelf:
+- Children's Literature
+- Children's Instructional Books
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7425'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Readers (Elementary)'
+- !lcc 'PZ'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: A Christmas dream -- The candy country -- Naughty Jocko -- The skipping
+  shoes -- Cockyloo -- Rosy's journey -- How they ran away -- The fairy box -- A hole
+  in the wall -- The piggy girl.
+title: 'The Louisa Alcott Reader: a Supplementary Reader for the Fourth Year of School'
+url: http://www.gutenberg.org/ebooks/7425
